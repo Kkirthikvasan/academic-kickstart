@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Kirthik Vasan
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD student  
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Indraprastha Institute of Information Technology
+  url: "https://www.iiitd.ac.in/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Nano-Technology
+- Biomedical Engineering
+- Photonic Bnad Gap materials
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in ECE
+    institution: IIIT-Delhi
+    year: Pursuing
+  - course: BTech in Electrical and Electronics Engineering
+    institution: Guru Gobind Singh Indraprastha University
+    year: 2020
+  - course: High School
+    institution: Tagore International School, New Delhi
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
