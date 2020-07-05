@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "nasa.v97@gmail.com"  # For a direct email link, use "mailto:test@example.org".
+ mailto: "nasa.v97@gmail.com"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
@@ -72,5 +72,4 @@ user_groups:
 
 If you've ever thought about how tacky things are done? then this is your answer. If you haven't thought about it I recommend you think about me "Kirthik Vasan" sometimes. I meet interesting persons and get their untrodden path raveled.
 (AHA!) since I m mostly crashing to whatever universe is chucking at me , I m going to roll out my talks and see how it goes from there.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+ 
