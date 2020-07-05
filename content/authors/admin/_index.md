@@ -23,7 +23,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Nano-Technology
 - Biomedical Engineering
-- Photonic Bnad Gap materials
+- Photonic Band Gap materials
 
 education:
   courses:
@@ -70,6 +70,7 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+If you've ever thought about how tacky things are done? then this is your answer. If you haven't thought about it I recommend you think about me "Kirthik Vasan" sometimes. I meet interesting persons and get their untrodden path raveled.
+(AHA!) since I m mostly crashing to whatever universe is chucking at me , I m going to roll out my talks and see how it goes from there.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
